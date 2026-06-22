@@ -11,6 +11,8 @@ content needed to resolve it.
 - **[`MERCHANT_CENTER_MISREPRESENTATION_FIX.md`](./MERCHANT_CENTER_MISREPRESENTATION_FIX.md)** —
   step-by-step runbook: publish the pages, make business identity consistent, and
   request a review.
+- **[`PUBLISH_ON_ZOHO_SITES.md`](./PUBLISH_ON_ZOHO_SITES.md)** —
+  click-by-click guide to publish the 6 pages and footer on Zoho Sites.
 - **[`VERIFICATION_AND_REVIEW_REQUEST.md`](./VERIFICATION_AND_REVIEW_REQUEST.md)** —
   documents to gather for business/identity verification and the exact text to
   paste into the Merchant Center "Request review" box.
